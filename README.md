@@ -34,4 +34,6 @@ ECommerce-Sales-Dashboard/
 
 ## Screenshot
 
-(Add dashboard screenshot here)
+## Dashboard Screenshot
+
+![Dashboard](Screenshots/dashboard_overview.png)
